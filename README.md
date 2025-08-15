@@ -10,7 +10,7 @@ This project implements a **Diabetes Prediction Machine Learning Model** that pr
 
 The repository also includes a **PDF report** comparing predicted vs actual outcomes for patients, showing model performance and accuracy.
 
-![View Sample PDF Report](https://github.com/MuhammadHamza123c/diabetes-risk-predictor/blob/main/diabetes_predictions_report.pdf)
+[View Sample PDF Report](https://github.com/MuhammadHamza123c/diabetes-risk-predictor/blob/main/diabetes_predictions_report.pdf)
 
 ---
 
@@ -28,6 +28,35 @@ The model predicts diabetes using the following features:
 - **Smoking History** (No Info / current / ever / former / never / not current)  
 
 ---
+
+## Model Evaluation
+
+The model was evaluated on a test dataset with the following metrics:
+
+**Test Dataset:**
+
+- Accuracy: 97.07%  
+- Precision: 0.97 (class 0), 0.90 (class 1)  
+- Recall: 1.00 (class 0), 0.52 (class 1)  
+- F1-Score: 0.98 (class 0), 0.66 (class 1)  
+
+**Train Dataset 2:**
+
+- Accuracy: 97.69%  
+- Precision: 0.98 (class 0), 0.98 (class 1)  
+- Recall: 1.00 (class 0), 0.57 (class 1)  
+- F1-Score: 0.99 (class 0), 0.72 (class 1)  
+
+
+
+---
+
+## Purpose / Use
+
+- Evaluate diabetes risk for patients based on health metrics.  
+- Demonstrate the workflow of building, training, and deploying an ML model in Python.  
+- Generate professional reports for presentations, analysis, or documentation.
+
 
 ## Repository Contents
 
@@ -54,4 +83,4 @@ python main.py
 
 # Follow the prompts to enter patient details
 # The script outputs whether the patient is predicted to have diabetes
-
+# A PDF report (diabetes_predictions_report.pdf) will be generated automatically
