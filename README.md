@@ -72,8 +72,7 @@ After evaluating performance metrics on the validation dataset, **XGBoost (Extre
 
 - `model.joblib` – Trained Gradient Boosting Model  
 - `scaler.joblib` – Scaler for normalizing input features  
-- `main.py` – Python script to take user input and predict diabetes  
-- `diabetes_predictions_report.pdf` – Sample PDF report of predictions vs actual outcomes  
+- `main.py` – Python script to take user input and predict diabetes   
 - `README.md` – This file  
 
 ---
