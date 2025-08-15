@@ -65,7 +65,7 @@ After evaluating performance metrics on the validation dataset, **XGBoost (Extre
 
 - Evaluate diabetes risk for patients based on health metrics.  
 - Demonstrate the workflow of building, training, and deploying an ML model in Python.  
-- Generate professional reports for presentations, analysis, or documentation.
+
 
 
 ## Repository Contents
