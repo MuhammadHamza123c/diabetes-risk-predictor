@@ -8,7 +8,7 @@
 
 This project implements a **Diabetes Prediction Machine Learning Model** that predicts whether a patient is likely to have diabetes based on multiple health parameters. It demonstrates the complete ML workflow: data preprocessing, model training, prediction.
 
-The repository also includes a **PDF report** comparing predicted vs actual outcomes for patients, showing model performance and accuracy.
+The repository also includes a **Diabetes report** comparing predicted vs actual outcomes for patients, showing model performance and accuracy.
 
 ![View Sample PDF Report](https://github.com/MuhammadHamza123c/diabetes-risk-predictor/blob/main/diabetes_predictions_report_page-0001.jpg)
 
@@ -50,6 +50,16 @@ The model was evaluated on a test dataset with the following metrics:
 
 
 ---
+
+## Model Selection
+
+During development, multiple machine learning algorithms were tested to predict diabetes, including:
+
+- Logistic Regression  
+- Random Forest  
+- K-Nearest Neighbors (KNN)  
+
+After evaluating performance metrics on the validation dataset, **XGBoost (Extreme Gradient Boosting)** was selected as the final model because it achieved the **best overall accuracy, precision, and recall**.
 
 ## Purpose / Use
 
