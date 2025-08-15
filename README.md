@@ -6,7 +6,7 @@
 
 ## Overview
 
-This project implements a **Diabetes Prediction Machine Learning Model** that predicts whether a patient is likely to have diabetes based on multiple health parameters. It demonstrates the complete ML workflow: data preprocessing, model training, prediction, and report generation.
+This project implements a **Diabetes Prediction Machine Learning Model** that predicts whether a patient is likely to have diabetes based on multiple health parameters. It demonstrates the complete ML workflow: data preprocessing, model training, prediction.
 
 The repository also includes a **PDF report** comparing predicted vs actual outcomes for patients, showing model performance and accuracy.
 
