@@ -10,7 +10,7 @@ This project implements a **Diabetes Prediction Machine Learning Model** that pr
 
 The repository also includes a **PDF report** comparing predicted vs actual outcomes for patients, showing model performance and accuracy.
 
-![View Sample PDF Report](https://github.com/MuhammadHamza123c/diabetes-risk-predictor/blob/main/diabetes_predictions_report.pdf)
+![View Sample PDF Report](https://github.com/MuhammadHamza123c/diabetes-risk-predictor/blob/main/diabetes_predictions_report_page-0001.jpg)
 
 ---
 
