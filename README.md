@@ -40,7 +40,7 @@ The model was evaluated on a test dataset with the following metrics:
 - Recall: 1.00 (class 0), 0.52 (class 1)  
 - F1-Score: 0.98 (class 0), 0.66 (class 1)  
 
-**Train Dataset 2:**
+**Train Dataset:**
 
 - Accuracy: 97.69%  
 - Precision: 0.98 (class 0), 0.98 (class 1)  
