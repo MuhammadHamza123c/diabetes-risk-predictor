@@ -85,7 +85,7 @@ git clone https://github.com/MuhammadHamza123c/diabetes-risk-predictor.git
 cd diabetes-risk-predictor
 
 # Install dependencies
-pip install pandas joblib reportlab
+pip install pandas joblib xgboost
 
 # Run the prediction script
 python main.py
